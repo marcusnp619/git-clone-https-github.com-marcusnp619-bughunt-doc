@@ -1,1 +1,1 @@
-# git-clone-https-github.com-marcusnp619-bughunt-doc
+git clone https://github.com/marcusnp619/bughunt-doc.git
